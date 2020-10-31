@@ -13,8 +13,7 @@ body {
   background-color: #153D77;
 }
 
-.main-title {
-    text-align: center;
+.container > h1.text-center {
     color: #153D77;
 }
 
